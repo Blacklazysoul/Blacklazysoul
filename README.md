@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Blacklazysoul
+- 👋 Yo, I’m @Blacklazysoul
 - 👀 I’m interested in programming, hacking and stuff....
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and c++
 - 📫 How to reach me: Blacklazysoul@gmail.com
 
 <!---
